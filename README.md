@@ -2,7 +2,7 @@
 
 扫描下方 ，回复 “**宿舍3** ” ，以获取源码
 
-![https://gitee.com/二维码](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220506172129.jpg)
+![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208222303058.png)
 
 ## 1、项目介绍
 
